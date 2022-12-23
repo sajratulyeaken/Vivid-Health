@@ -1,0 +1,14 @@
+{
+  "name": "vividhealth",
+  "version": "1.0.0",
+  "description": "MERN med shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Yeaken",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
