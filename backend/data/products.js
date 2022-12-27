@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Bisocor 2.5',
     image: '/images/Bisocor.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Bizoran 5/40',
     image: '/images/Bizoran.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Clopid 75',
     image: '/images/Clopid.jpg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'Sergel 20',
     image: '/images/Sergel.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'Monas 10',
     image: '/images/Monas.jpg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'Exforge 5/160',
     image: '/images/Exforge.jpg',
     description:
@@ -79,4 +73,4 @@ const products = [
   },
 ]
 
-module.exports = products
+export default products
